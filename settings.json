@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d8b15ad3-7170-407d-850c-db5e284ca4ee/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/DannyNoteTakerWebApp",
+    "appService.deploySubpath": "."
+}
