@@ -5,4 +5,6 @@ HTML was used to provide a border for users to type in their notes while CSS was
 
 The link to this project: https://dannynotetakerwebapp.azurewebsites.net/
 
-# Below is what DannyNoteTaker Web App looks like before the user does anything.
+# Result of what the user sees when opening the app
+
+# Result of what the user sees when interacting with the app
