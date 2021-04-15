@@ -6,6 +6,6 @@ HTML was used to provide a border for users to type in their notes while CSS was
 The link to this project: https://dannynotetakerwebapp.azurewebsites.net/
 
 # Result of what the user sees when opening the app
-![](notesPIC.jpg)
+![](ImagesNT/notesPIC.jpg)
 # Result of what the user sees when interacting with the app
-![](NoteRESULT.jpg)
+![](ImagesNT/NoteRESULT.jpg)
